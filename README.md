@@ -21,10 +21,9 @@ I also defend **free and shared knowledge**, collaboration, and code that solves
 
 ## 🌱 What I Value
 
-- Technology should serve people — especially the most vulnerable  
+- Technology should serve people  
 - Knowledge must be free and shared  
 - Code should have meaning and purpose  
-- Security is also about care  
 - Collective work creates stronger solutions
 
 ---
