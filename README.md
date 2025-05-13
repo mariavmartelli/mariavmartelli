@@ -17,14 +17,6 @@ I also defend **free and shared knowledge**, collaboration, and code that solves
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## 🌱 What I Value
-
-- Technology should serve people  
-- Knowledge must be free and shared  
-- Code should have meaning and purpose  
-- Collective work creates stronger solutions
 
 ---
 
