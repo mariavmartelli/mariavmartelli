@@ -3,8 +3,6 @@
 I'm Maria Vitória Martelli — a student of **Information Technology** at **FAETERJ Petrópolis** and a current **Software/TIC resident** at [Serratec](https://serratec.org).  
 I'm interested in **software development** and **cybersecurity**, especially as tools for real social transformation.
 
-I believe technology should be empathetic, purposeful, and accessible. I'm passionate about learning, building secure and meaningful solutions, and contributing to projects that serve **those who need it most** — especially those focused on **collective well-being**, public interest, and social justice.  
-I also defend **free and shared knowledge**, collaboration, and code that solves real problems with social impact.
 
 ---
 
